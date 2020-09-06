@@ -1,2 +1,2 @@
-# hactoberfest 2020
+# hactoberfest 
 Contribution to open source
