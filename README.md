@@ -1,2 +1,2 @@
 # hactoberfest
-Contribution to open source.
+Contribution to open source
